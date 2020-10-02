@@ -1,6 +1,6 @@
 # testclojure
 
-A Clojure library designed to ... well, that part is up to you.
+run it in the main folder using ```lein deps``` ```lein run```
 
 ## Usage
 
